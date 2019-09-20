@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/cblanc/eslint-config/compare/1.1.0...1.1.1) (2019-09-20)
+
+
+### Bug Fixes
+
+* **Release:** Release as node module ([77433e8](https://github.com/cblanc/eslint-config/commit/77433e8))
+
 # [1.1.0](https://github.com/cblanc/eslint-config/compare/1.0.1...1.1.0) (2019-09-20)
 
 
