@@ -1,0 +1,10 @@
+{
+  "extends": "@cablanchard/tsconfig",
+  "compilerOptions": {
+    "outDir": ".",
+    "sourceMap": false,
+    "declarationMap": false,
+    "declaration": false
+  },
+  "files": ["eslintrc.ts"]
+}

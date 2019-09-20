@@ -1,0 +1,41 @@
+{
+  "name": "@cablanchard/eslint-config",
+  "description": "Typescript ESLint configuration",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cblanc/eslint-config"
+  },
+  "version": "0.0.1",
+  "main": "eslintrc.js",
+  "scripts": {
+    "test": "tsc && npm run lint",
+    "prepare": "tsc",
+    "lint": "eslint -c eslintrc.js eslintrc.ts"
+  },
+  "prettier": {
+    "trailingComma": "es5"
+  },
+  "engines": {
+    "node": ">=10.0"
+  },
+  "author": {
+    "name": "Christopher Blanchard",
+    "email": "cablanchard@gmail.com",
+    "url": "chrxv.com"
+  },
+  "license": "MIT",
+  "files": [
+    "eslintrc.js"
+  ],
+  "devDependencies": {
+    "@cablanchard/tsconfig": "1.0.0",
+    "@typescript-eslint/eslint-plugin": "~2.3.0",
+    "@typescript-eslint/eslint-plugin-tslint": "~2.3.0",
+    "@typescript-eslint/parser": "~2.3.0",
+    "eslint": "~6.4.0",
+    "prettier": "~1.18.0",
+    "tslint": "~5.20.0",
+    "typescript": "~3.6.2"
+  },
+  "dependencies": {}
+}
