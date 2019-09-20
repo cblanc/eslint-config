@@ -28,7 +28,6 @@ export = {
     ],
     "no-debugger": "error",
     "no-invalid-this": "error",
-    "no-magic-numbers": "error",
     "no-new-wrappers": "error",
     "no-undef-init": "error",
     "object-shorthand": "error",
