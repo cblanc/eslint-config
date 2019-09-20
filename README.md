@@ -5,13 +5,13 @@
 ## Usage
 
 ```bash
-npm install --save-dev @cablanchard/eslint-config
+npm install --save-dev @cablanchard/eslint-config tslint 
 ```
 
-In `eslintrc.js`
+In `.eslintrc.js`
 
-```json
-{
+```javascript
+module.exports = {
   "extends": "@cablanchard"
 }
 ```
@@ -21,7 +21,7 @@ In `package.json`
 ```json
 {
   "scripts": {
-    "lint": "eslint"
+    "lint": "eslint files/**/*.ts"
   }
 }
 ```
