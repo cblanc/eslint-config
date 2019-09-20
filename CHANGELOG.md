@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/cblanc/eslint-config/compare/1.0.1...1.1.0) (2019-09-20)
+
+
+### Bug Fixes
+
+* **Deps:** Move linting deps to dependencies ([cf57fa2](https://github.com/cblanc/eslint-config/commit/cf57fa2))
+
+
+### Features
+
+* **Rules:** Allow magic numbers ([340672d](https://github.com/cblanc/eslint-config/commit/340672d))
+
 ## [1.0.1](https://github.com/cblanc/eslint-config/compare/1.0.0...1.0.1) (2019-09-20)
 
 
