@@ -29,7 +29,7 @@
     "eslintrc.js"
   ],
   "release": {
-    "extends": "@cablanchard/semantic-release"
+    "extends": "@cablanchard/semantic-release/dist/npm"
   },
   "devDependencies": {
     "@cablanchard/semantic-release": "~1.2.1",
