@@ -34,7 +34,7 @@
   "devDependencies": {
     "@cablanchard/semantic-release": "~1.2.1",
     "@cablanchard/tsconfig": "1.0.0",
-    "eslint": "~6.5.0",
+    "eslint": "~6.6.0",
     "prettier": "~1.18.0",
     "semantic-release": "^15.13.24",
     "typescript": "~3.6.2"
