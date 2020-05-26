@@ -5,7 +5,7 @@ export = {
     project: "tsconfig.json",
     sourceType: "module",
   },
-  plugins: ["@typescript-eslint", "@typescript-eslint/tslint"],
+  plugins: ["@typescript-eslint"],
   rules: {
     "@typescript-eslint/await-thenable": "error",
     "@typescript-eslint/ban-types": "error",
@@ -32,16 +32,5 @@ export = {
     "no-undef-init": "error",
     "object-shorthand": "error",
     "prefer-const": "error",
-    "@typescript-eslint/tslint/config": [
-      "error",
-      {
-        rules: {
-          "match-default-export-name": true,
-          "no-boolean-literal-compare": false,
-          "no-shadowed-variable": true,
-          "prefer-method-signature": true,
-        },
-      },
-    ],
   },
 };
