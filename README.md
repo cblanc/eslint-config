@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/cblanc/eslint-config.svg?style=svg)](https://circleci.com/gh/cblanc/eslint-config)
+![Release](https://github.com/cblanc/eslint-config/workflows/Release/badge.svg)
+![CI](https://github.com/cblanc/eslint-config/workflows/CI/badge.svg)
 
 # ESLint Typescript Config
 
