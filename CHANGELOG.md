@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/cblanc/eslint-config/compare/1.2.0...1.2.1) (2020-05-26)
+
+
+### Bug Fixes
+
+* **Dep:** Fix broken dependency ([f221a39](https://github.com/cblanc/eslint-config/commit/f221a39))
+
 # [1.2.0](https://github.com/cblanc/eslint-config/compare/1.1.2...1.2.0) (2020-05-26)
 
 
