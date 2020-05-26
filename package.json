@@ -8,7 +8,8 @@
   "version": "1.1.1",
   "main": "eslintrc.js",
   "scripts": {
-    "test": "tsc && npm run lint",
+    "test": "npm run build && npm run lint",
+    "build": "tsc",
     "prepare": "tsc",
     "semantic-release": "semantic-release",
     "lint": "eslint -c eslintrc.js eslintrc.ts"
