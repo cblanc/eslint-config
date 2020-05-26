@@ -30,4 +30,3 @@ In `package.json`
 ## Licence
 
 MIT
-
