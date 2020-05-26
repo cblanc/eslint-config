@@ -1,5 +1,6 @@
 ![Release](https://github.com/cblanc/eslint-config/workflows/Release/badge.svg)
 ![CI](https://github.com/cblanc/eslint-config/workflows/CI/badge.svg)
+[![npm version](https://badge.fury.io/js/%40cablanchard%2Feslint-config.svg)](https://badge.fury.io/js/%40cablanchard%2Feslint-config)
 
 # ESLint Typescript Config
 
