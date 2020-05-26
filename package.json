@@ -10,7 +10,7 @@
   "scripts": {
     "test": "tsc && npm run lint",
     "prepare": "tsc",
-    "release": "semantic-release --no-ci",
+    "semantic-release": "semantic-release",
     "lint": "eslint -c eslintrc.js eslintrc.ts"
   },
   "prettier": {
@@ -36,7 +36,7 @@
     "@cablanchard/tsconfig": "1.0.0",
     "eslint": "~6.8.0",
     "prettier": "~2.0.1",
-    "semantic-release": "^17.0.7",
+    "semantic-release": "~17.0.7",
     "typescript": "~3.9.2"
   },
   "dependencies": {
