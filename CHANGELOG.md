@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/cblanc/eslint-config/compare/1.1.1...1.1.2) (2020-05-26)
+
+
+### Bug Fixes
+
+* **Lint:** Enable boolean literal compare ([b2ace00](https://github.com/cblanc/eslint-config/commit/b2ace00))
+
 ## [1.1.1](https://github.com/cblanc/eslint-config/compare/1.1.0...1.1.1) (2019-09-20)
 
 
