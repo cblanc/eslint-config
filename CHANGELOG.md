@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/cblanc/eslint-config/compare/1.1.2...1.2.0) (2020-05-26)
+
+
+### Features
+
+* **Deps:** Update deps and trigger moniro version ([a01471a](https://github.com/cblanc/eslint-config/commit/a01471a))
+
 ## [1.1.2](https://github.com/cblanc/eslint-config/compare/1.1.1...1.1.2) (2020-05-26)
 
 
