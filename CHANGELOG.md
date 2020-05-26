@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/cblanc/eslint-config/compare/1.2.2...2.0.0) (2020-05-26)
+
+
+### Features
+
+* **Update:** Drop tslint ([c641448](https://github.com/cblanc/eslint-config/commit/c641448c1aae05f77ec1d88eec419dc6a68efa28))
+
+
+### BREAKING CHANGES
+
+* **Update:** Requires eslint peer dependecy
+
+Drops @typescript-eslint/tslint
+
 ## [1.2.2](https://github.com/cblanc/eslint-config/compare/1.2.1...1.2.2) (2020-05-26)
 
 
