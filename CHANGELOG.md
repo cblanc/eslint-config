@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/cblanc/eslint-config/compare/1.2.1...1.2.2) (2020-05-26)
+
+
+### Bug Fixes
+
+* **Release:** Trigger release ([11fd43d](https://github.com/cblanc/eslint-config/commit/11fd43d7dd3b1136d079479fc70b1999b2eb418c))
+
 ## [1.2.1](https://github.com/cblanc/eslint-config/compare/1.2.0...1.2.1) (2020-05-26)
 
 
