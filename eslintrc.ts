@@ -37,7 +37,7 @@ export = {
       {
         rules: {
           "match-default-export-name": true,
-          "no-boolean-literal-compare": true,
+          "no-boolean-literal-compare": false,
           "no-shadowed-variable": true,
           "prefer-method-signature": true,
         },
