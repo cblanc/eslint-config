@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/cblanc/eslint-config/compare/2.0.0...2.0.1) (2020-05-27)
+
+
+### Bug Fixes
+
+* **Deps:** Bump deps ([85e96ff](https://github.com/cblanc/eslint-config/commit/85e96ff660e4c5e1630babb032ec0692ecd1674f))
+
 # [2.0.0](https://github.com/cblanc/eslint-config/compare/1.2.2...2.0.0) (2020-05-26)
 
 
