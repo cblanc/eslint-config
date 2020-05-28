@@ -63,3 +63,4 @@ dist
 eslintrc.js
 eslint.d.ts
 eslint.js.map
+test.js
