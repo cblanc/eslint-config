@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/cblanc/eslint-config/compare/2.0.1...2.0.2) (2020-05-28)
+
+
+### Bug Fixes
+
+* **Deps:** Add @typescript/eslint/eslint-plugin to peer deps ([7a9466d](https://github.com/cblanc/eslint-config/commit/7a9466dcbdfa1c307910ecbe63cef43d6d48e05a))
+
 ## [2.0.1](https://github.com/cblanc/eslint-config/compare/2.0.0...2.0.1) (2020-05-27)
 
 
