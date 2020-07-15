@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/cblanc/eslint-config/compare/2.0.2...2.1.0) (2020-07-15)
+
+
+### Features
+
+* **Override:** Drop no-invalid-this from test files ([ce44c29](https://github.com/cblanc/eslint-config/commit/ce44c29d17b782e8b8b8e1c2432a05af15f8302e))
+
 ## [2.0.2](https://github.com/cblanc/eslint-config/compare/2.0.1...2.0.2) (2020-05-28)
 
 
