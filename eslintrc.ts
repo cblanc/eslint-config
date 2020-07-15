@@ -33,4 +33,12 @@ export = {
     "object-shorthand": "error",
     "prefer-const": "error",
   },
+  overrides: [
+    {
+      files: ["test/**/*", "spec/**/*", "tests/**/*"],
+      rules: {
+        "@typescript-eslint/no-invalid-this": "off",
+      },
+    },
+  ],
 };
