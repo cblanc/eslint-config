@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/cblanc/eslint-config/compare/2.1.0...2.1.1) (2021-01-15)
+
+
+### Bug Fixes
+
+* **Root:** Set `root: true` ([71edc73](https://github.com/cblanc/eslint-config/commit/71edc7376e53ce4246197a82533c398be1cda2a6))
+
 # [2.1.0](https://github.com/cblanc/eslint-config/compare/2.0.2...2.1.0) (2020-07-15)
 
 
