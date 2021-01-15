@@ -1,4 +1,5 @@
 export = {
+  root: true,
   env: {},
   parser: "@typescript-eslint/parser",
   parserOptions: {
