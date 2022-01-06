@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/cblanc/eslint-config/compare/2.1.1...3.0.0) (2022-01-06)
+
+
+### chore
+
+* **Dependencies:** Update ([d2ce362](https://github.com/cblanc/eslint-config/commit/d2ce362ed82b59d32b02db0a39d1aec95dfafac8))
+
+
+### BREAKING CHANGES
+
+* **Dependencies:** Major updates for plugins
+
 ## [2.1.1](https://github.com/cblanc/eslint-config/compare/2.1.0...2.1.1) (2021-01-15)
 
 
