@@ -35,18 +35,18 @@
   "devDependencies": {
     "@cablanchard/semantic-release": "~1.3.4",
     "@cablanchard/tsconfig": "2.0.0",
-    "@semantic-release/github": "~7.2.0",
-    "@typescript-eslint/eslint-plugin": "^4.0.0",
-    "eslint": "~7.21.0",
-    "prettier": "~2.2.0",
-    "semantic-release": "~17.4.0",
-    "typescript": "~4.2.2"
+    "@semantic-release/github": "~8.0.2",
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "eslint": "~8.6.0",
+    "prettier": "~2.5.1",
+    "semantic-release": "~18.0.1",
+    "typescript": "~4.5.4"
   },
   "peerDependencies": {
-    "eslint": ">=6",
-    "@typescript-eslint/eslint-plugin": ">=3"
+    "@typescript-eslint/eslint-plugin": ">=3",
+    "eslint": ">=6"
   },
   "dependencies": {
-    "@typescript-eslint/parser": "~3.10.1"
+    "@typescript-eslint/parser": "~5.9.0"
   }
 }
