@@ -1,3 +1,10 @@
+## [3.1.1](https://github.com/cblanc/eslint-config/compare/3.1.0...3.1.1) (2022-08-05)
+
+
+### Bug Fixes
+
+* **Release:** Trigger new release ([b7bc1db](https://github.com/cblanc/eslint-config/commit/b7bc1db4a555b2c163d13743e47f3b1b59659758))
+
 # [3.1.0](https://github.com/cblanc/eslint-config/compare/3.0.0...3.1.0) (2022-08-05)
 
 
