@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/cblanc/eslint-config/compare/3.0.0...3.1.0) (2022-08-05)
+
+
+### Features
+
+* **Deps:** Bump peer deps ([c0dca68](https://github.com/cblanc/eslint-config/commit/c0dca6856bb8422a18bbb68d526f03eec134bb52))
+
 # [3.0.0](https://github.com/cblanc/eslint-config/compare/2.1.1...3.0.0) (2022-01-06)
 
 
